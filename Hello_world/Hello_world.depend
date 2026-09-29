@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1790076441 source:/home/manu/Desktop/c++/Hello_world/main.cpp
+	<iostream>
+
+1790093917 source:/home/manu/Desktop/c++/Hello_world/standard.cpp
+	<iostream>
+
